@@ -9,7 +9,6 @@
 <p align="center">
   <em>A passionate Frontend Developer from India turning ideas into seamless web experiences.</em>
 </p>
-
 <br>
 
 - 🔭 I’m currently working on **ShopGPT (AI E-commerce)**
